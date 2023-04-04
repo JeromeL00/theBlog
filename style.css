@@ -1,0 +1,11 @@
+/* 
+ Theme Name:   TheBlog
+ Author:       MJ
+ Version:      1.0.0
+*/
+
+/*wordpress addition*/
+
+.card__md__content a{
+    color: white !important;
+  }
